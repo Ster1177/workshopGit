@@ -1,0 +1,4 @@
+workshopGit
+===========
+
+Playing with git
